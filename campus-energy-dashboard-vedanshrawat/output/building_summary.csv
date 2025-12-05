@@ -1,0 +1,4 @@
+building,total_kwh,mean_kwh,min_kwh,max_kwh,data_points
+Building A,315.7,157.85,150.5,165.2,2
+Building B,410.5,205.25,200.0,210.5,2
+Building UNKNOWN,450.0,225.0,220.0,230.0,2

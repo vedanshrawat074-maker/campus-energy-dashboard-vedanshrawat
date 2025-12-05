@@ -1,0 +1,12 @@
+========================================
+EXECUTIVE ENERGY CONSUMPTION SUMMARY
+========================================
+1. Total Campus Consumption: 1,176.20 kWh
+2. Highest-Consuming Building: Building UNKNOWN (450.00 kWh)
+3. Peak Load Event: 230.00 kWh at 2025-12-01
+
+4. Daily Consumption Trends (Average per Day with Data):
+   - Building A: 10.18 kWh/day (Avg)
+   - Building B: 13.24 kWh/day (Avg)
+   - Building UNKNOWN: 14.52 kWh/day (Avg)
+========================================

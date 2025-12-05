@@ -1,0 +1,7 @@
+timestamp,building,kwh,month
+2025-09-01,Building A,150.5,September
+2025-09-01,Building B,200.0,September
+2025-10-01,Building A,165.2,October
+2025-10-01,Building B,210.5,October
+2025-11-01,Building UNKNOWN,220.0,November
+2025-12-01,Building UNKNOWN,230.0,December
